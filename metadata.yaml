@@ -5,6 +5,9 @@ contributor:
     agent_name: Jacoby, Helen E.
     gutenberg_agent_id: '58054'
     url: http://www.gutenberg.org/2009/agents/58054
+covers:
+- cover_type: archival
+  image_path: 75571-h/images/cover.jpg
 creator:
   author:
     agent_name: Lardner, Ring
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2457
     wikipedia: https://en.wikipedia.org/wiki/Ring_Lardner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75571#Symptoms-of-being-35
 gutenberg_issued: '2025-03-09'
 gutenberg_type: Text
 identifiers:
